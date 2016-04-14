@@ -13,6 +13,9 @@
 		3A05AC3F1CBBBE2500089263 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A05AC3E1CBBBE2500089263 /* Assets.xcassets */; };
 		3A05AC421CBBBE2500089263 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A05AC401CBBBE2500089263 /* LaunchScreen.storyboard */; };
 		3A05AC4D1CBBBE2600089263 /* PeterPan_0411UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A05AC4C1CBBBE2600089263 /* PeterPan_0411UITests.swift */; };
+		3A05AC581CBBC65400089263 /* 892727_600019193361622_1471290171_o.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A05AC571CBBC65400089263 /* 892727_600019193361622_1471290171_o.png */; };
+		3A67CEE61CBBCE710017EAA5 /* NotoSansCJKtc-DemiLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3A67CEE51CBBCE710017EAA5 /* NotoSansCJKtc-DemiLight.otf */; };
+		3A67CEE81CBBE47D0017EAA5 /* 螢幕快照 2016-04-07 20.16.07_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A67CEE71CBBE47D0017EAA5 /* 螢幕快照 2016-04-07 20.16.07_1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		3A05AC481CBBBE2600089263 /* PeterPan_0411UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PeterPan_0411UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A05AC4C1CBBBE2600089263 /* PeterPan_0411UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeterPan_0411UITests.swift; sourceTree = "<group>"; };
 		3A05AC4E1CBBBE2600089263 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A05AC571CBBC65400089263 /* 892727_600019193361622_1471290171_o.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 892727_600019193361622_1471290171_o.png; path = ../../../../../../../Desktop/892727_600019193361622_1471290171_o.png; sourceTree = "<group>"; };
+		3A67CEE51CBBCE710017EAA5 /* NotoSansCJKtc-DemiLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansCJKtc-DemiLight.otf"; sourceTree = "<group>"; };
+		3A67CEE71CBBE47D0017EAA5 /* 螢幕快照 2016-04-07 20.16.07_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "螢幕快照 2016-04-07 20.16.07_1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +86,10 @@
 				3A05AC371CBBBE2500089263 /* AppDelegate.swift */,
 				3A05AC391CBBBE2500089263 /* ViewController.swift */,
 				3A05AC3B1CBBBE2500089263 /* Main.storyboard */,
+				3A67CEE51CBBCE710017EAA5 /* NotoSansCJKtc-DemiLight.otf */,
 				3A05AC3E1CBBBE2500089263 /* Assets.xcassets */,
+				3A67CEE71CBBE47D0017EAA5 /* 螢幕快照 2016-04-07 20.16.07_1.png */,
+				3A05AC571CBBC65400089263 /* 892727_600019193361622_1471290171_o.png */,
 				3A05AC401CBBBE2500089263 /* LaunchScreen.storyboard */,
 				3A05AC431CBBBE2500089263 /* Info.plist */,
 			);
@@ -178,8 +187,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A05AC421CBBBE2500089263 /* LaunchScreen.storyboard in Resources */,
+				3A67CEE61CBBCE710017EAA5 /* NotoSansCJKtc-DemiLight.otf in Resources */,
+				3A67CEE81CBBE47D0017EAA5 /* 螢幕快照 2016-04-07 20.16.07_1.png in Resources */,
 				3A05AC3F1CBBBE2500089263 /* Assets.xcassets in Resources */,
 				3A05AC3D1CBBBE2500089263 /* Main.storyboard in Resources */,
+				3A05AC581CBBC65400089263 /* 892727_600019193361622_1471290171_o.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -388,6 +400,7 @@
 				3A05AC531CBBBE2600089263 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3A05AC541CBBBE2600089263 /* Build configuration list for PBXNativeTarget "PeterPan_0411UITests" */ = {
 			isa = XCConfigurationList;
@@ -396,6 +409,7 @@
 				3A05AC561CBBBE2600089263 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
